@@ -1,1 +1,7 @@
-## Um código de um servidor e cliente, simples para uma aplicação de calculadora. 
+## Server and client made in C for a simple application that describe a calculator.
+
+### How
+
+* C
+
+* Sockets
